@@ -1,3 +1,6 @@
 [submodule "latent-diffusion"]
 	path = latent-diffusion
 	url = git@github.com:CompVis/latent-diffusion.git
+[submodule "lsun"]
+	path = lsun
+	url = git@github.com:fyu/lsun.git
